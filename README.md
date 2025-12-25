@@ -48,6 +48,18 @@ This project demonstrates:
 - Displays result on UI
 
 ---
+## App Workflow
+
+- Enter Student details (Gender, Race Ethnicity, Parental Level of Education, Lunch Type, Test Preparation Course, Writing Score, Reading Score).
+
+- Click Predict Your Math Score.
+
+- The app displays the predicted Math Score.
+
+  <img width="461" height="772" alt="Screenshot 2025-12-25 143323" src="https://github.com/user-attachments/assets/6808929c-6216-4e3d-b040-790e1be3444d" />
+
+
+---
 
 ## ⚙️ Technologies Used
 
